@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/roman-makarov-1262b0325">
+  <a href="https://linkedin.com/in/romanmkrv">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin">
   </a>
   <a href="https://www.leetcode.com/di0jkpymcc">
