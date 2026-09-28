@@ -1,7 +1,7 @@
 <h1 align="center">Roman</h1>
 
 <p align="center">
-  Backend developer focused on Java, Spring, and building efficient systems.
+  Software engineer focused on Java, Spring, and building efficient systems.
 </p>
 
 <p align="center">
